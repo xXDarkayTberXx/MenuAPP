@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">APPMenu</string>
+    <string name="btn1">Abrir actividad</string>
+    <string name="btn2">Mostrar toast</string>
+    <string name="btn3">Mostrar snackbar</string>
+    <string name="btn4">Cerrar app</string>
+    <string name="btn5">Mostrar/ocultar texto</string>
+    <string name="textoEfimero">NO CLICAR EL ULTIMO BOTON</string>
+    <string name="felicidades">¡Ole ahí, has abierto una nueva actividad genio!</string>
+    <string name="btnFelicidades">GET ME OUT OF HERE!</string>
+
+</resources>
